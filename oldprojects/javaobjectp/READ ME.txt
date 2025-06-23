@@ -1,0 +1,11 @@
+Dear Jana from the present-time,
+
+How to run this project:
+
+1. Open command prompt.
+2. Go to the directory of this folder.
+3. Type "java Main.java"
+4. Alt-tab to fix the keypress bug.
+
+Sincerely,
+Jana from the past

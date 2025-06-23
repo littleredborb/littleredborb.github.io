@@ -1,0 +1,16 @@
+Hi, I'm Jana and thank you for playing my first game ever.
+you can reach me at: yanayane7@gmail.com
+
+Bugs that may not be fixed anymore due to my ugly coding:
+- Slow potion [SD] will randomly send Red flying away from the screen (unknown causes).
+- Not compatible with Mozilla Firefox (GASP!)
+- Vacuum potion is too overpowered
+
+10/15/2015 - Added a tutorial so I don't have to explain how to play anymore
+11/09/2014 - Added summon pumpkabob potion
+	   - Added vacuum potion (needs work)
+	   - Fixed stun and speed potion
+	   - Fixed monster drops not reseting
+	   - Fixed pumpkabob not reseting
+??/??/???? - Game was born!
+
